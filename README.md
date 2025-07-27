@@ -5,9 +5,9 @@ I'm a developer who enjoys building thoughtful, user-friendly applications — f
 ---
 
 ## 🛠 Tech Stack  
-**Languages & Frameworks:** Python, JavaScript, Flask, HTML/CSS ,PHP,C
+**Languages & Frameworks:** Python, JavaScript, Flask, HTML/CSS ,PHP
 
-**Database:** SQLite,MySql
+**Database:** SQLite, MySql
 
 **Tools:** Git, GitHub, Chrome Extensions ,Tensorflow
 
@@ -43,6 +43,6 @@ A lightweight Chrome extension for taking site-specific notes directly in the br
 ---
 
 ## 🤝 Connect with Me  
-- [LinkedIn]https://www.linkedin.com/in/neeraja-k-812701249/ 
+- LinkedIn:https://www.linkedin.com/in/neeraja-k-812701249/ 
 
 Thanks for stopping by!
