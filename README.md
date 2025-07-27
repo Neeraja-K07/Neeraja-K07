@@ -6,7 +6,9 @@ I'm a developer who enjoys building thoughtful, user-friendly applications — f
 
 ## 🛠 Tech Stack  
 **Languages & Frameworks:** Python, JavaScript, Flask, HTML/CSS ,PHP,C
+
 **Database:** SQLite,MySql
+
 **Tools:** Git, GitHub, Chrome Extensions ,Tensorflow
 
 ---
