@@ -1,13 +1,13 @@
 # 👋 Hi, I'm Neeraja
 
-I'm a developer who enjoys building thoughtful, user-friendly applications — from simple tools to real-world solutions. I’m especially interested in web development,Android App development, real-time APIs, and making tech a little more delightful.
+I'm a developer who enjoys building thoughtful, user-friendly applications — from simple tools to real-world solutions. I’m especially interested in web development,Mobile App development using Flutter, real-time APIs, and making tech a little more delightful.
 
 ---
 
 ## 🛠 Tech Stack  
-**Languages & Frameworks:** Python, JavaScript, Flask, HTML/CSS  
-**Database:** SQLite  
-**Tools:** Git, GitHub, Chrome Extensions 
+**Languages & Frameworks:** Python, JavaScript, Flask, HTML/CSS ,PHP,C
+**Database:** SQLite,MySql
+**Tools:** Git, GitHub, Chrome Extensions ,Tensorflow
 
 ---
 
@@ -16,6 +16,7 @@ I'm a developer who enjoys building thoughtful, user-friendly applications — f
 - API integrations & automation  
 - UI/UX design principles
 - Flutter App Development
+- DSA
 
 ---
 
